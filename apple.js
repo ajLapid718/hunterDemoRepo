@@ -1,1 +1,1 @@
-console.log("the apple is in fact blue");
+console.log("the apple is red");
